@@ -67,4 +67,3 @@ Our implementation is inspired by the following excellent projects:
 
 We sincerely thank the authors for their open-source contributions.
 ```
-```
