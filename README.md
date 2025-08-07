@@ -66,4 +66,16 @@ Our implementation is inspired by the following excellent projects:
 * [EasyST](https://github.com/HKUDS/EasyST)
 
 We sincerely thank the authors for their open-source contributions.
-```
+
+---
+
+## 📚 Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@inproceedings{cheninformation,
+  title={Information Bottleneck-guided MLPs for Robust Spatial-temporal Forecasting},
+  author={Chen, Min and Pang, Guansong and Wang, Wenjun and Yan, Cheng},
+  booktitle={Forty-second International Conference on Machine Learning}
+}
